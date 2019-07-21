@@ -1,0 +1,2 @@
+##FastStone Photo Resizer
+
