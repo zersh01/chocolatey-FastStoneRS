@@ -4,7 +4,7 @@
   <metadata>
     <id>FsResizer.install</id>
     <title>FastStone Photo Resizer (install)</title>
-    <version>4.3</version>
+    <version>4.3.1</version>
     <authors>FastStone Soft</authors>
     <owners>zersh</owners>
     <summary>FastStone Photo Resizer</summary>
@@ -12,13 +12,13 @@
     <projectUrl>https://www.faststone.org/FSResizerDetail.htm</projectUrl>
     <tags>photo resizer faststone image batch rename convert renamer converter</tags>
     <copyright>FastStone Soft</copyright>
-    <licenseUrl>https://www.faststone.org/FSResizerDetail.htm</licenseUrl>
+    <licenseUrl>https://www.faststone.org/order.htm</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes>Supports FAX and JFIF formats
 Improved processing speed (5X faster) of Batch Rename
 Fixed a bug that failed to load certain TIFF images</releaseNotes>
     <iconUrl>https://cdn.jsdelivr.net/gh/zersh01/chocolatey-FastStoneRS@master/Icon.png</iconUrl>
-    <docsUrl>https://www.faststone.org/download.htm</docsUrl>
+    <docsUrl>https://habr.com/ru/post/90698/</docsUrl>
     <packageSourceUrl>https://github.com/zersh01/chocolatey-FastStoneRS</packageSourceUrl>
   </metadata>
   <files>
