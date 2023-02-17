@@ -4,9 +4,9 @@
   <metadata>
     <id>FsResizer.install</id>
     <title>FastStone Photo Resizer (install)</title>
-    <version>4.3.1</version>
+    <version>4.4</version>
     <authors>FastStone Soft</authors>
-    <owners>zersh</owners>
+    <owners>zersh,atrich0608</owners>
     <summary>FastStone Photo Resizer</summary>
     <description>FastStone Photo Resizer is an image converter and renaming tool that intends to enable users to convert, rename, resize, crop, rotate, change color depth, add text and watermarks to images in a quick and easy batch mode. Drag and Drop mouse operation is well supported.</description>
     <projectUrl>https://www.faststone.org/FSResizerDetail.htm</projectUrl>
@@ -17,9 +17,9 @@
     <releaseNotes>Supports FAX and JFIF formats
 Improved processing speed (5X faster) of Batch Rename
 Fixed a bug that failed to load certain TIFF images</releaseNotes>
-    <iconUrl>https://cdn.jsdelivr.net/gh/zersh01/chocolatey-FastStoneRS@master/Icon.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/atrich0608/chocolatey-FastStoneRS@master/Icon.png</iconUrl>
     <docsUrl>https://habr.com/ru/post/90698/</docsUrl>
-    <packageSourceUrl>https://github.com/zersh01/chocolatey-FastStoneRS</packageSourceUrl>
+    <packageSourceUrl>https://github.com/atrich0608/chocolatey-FastStoneRS</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
