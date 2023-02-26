@@ -1,9 +1,9 @@
 ﻿$packageName = 'FsResizer.install'
 $installerType = 'exe'
-$url = 'https://www.faststone.org/DN/FSResizerSetup43.exe'
+$url = 'https://www.faststone.org/DN/FSResizerSetup44.exe'
 $silentArgs = '/S'
                                          
-$checksum = '5CB04FF4D6CDD6DF192B1D4B9664A0EA'
+$checksum = 'C8D0DF1F5EA88DC6A42AE55D09F30BC0'
 
 $checksumType = 'md5'
  
